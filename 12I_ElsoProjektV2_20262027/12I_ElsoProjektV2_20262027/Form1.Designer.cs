@@ -40,7 +40,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(30, 39);
+            this.label1.Location = new System.Drawing.Point(12, 21);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(356, 34);
             this.label1.TabIndex = 0;
@@ -50,7 +50,7 @@
             // btnSzobak
             // 
             this.btnSzobak.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.btnSzobak.Location = new System.Drawing.Point(36, 110);
+            this.btnSzobak.Location = new System.Drawing.Point(18, 73);
             this.btnSzobak.Name = "btnSzobak";
             this.btnSzobak.Size = new System.Drawing.Size(124, 30);
             this.btnSzobak.TabIndex = 1;
@@ -61,7 +61,7 @@
             // btnVendegek
             // 
             this.btnVendegek.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.btnVendegek.Location = new System.Drawing.Point(36, 146);
+            this.btnVendegek.Location = new System.Drawing.Point(18, 109);
             this.btnVendegek.Name = "btnVendegek";
             this.btnVendegek.Size = new System.Drawing.Size(124, 30);
             this.btnVendegek.TabIndex = 2;
@@ -72,7 +72,7 @@
             // btnFoglalasok
             // 
             this.btnFoglalasok.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.btnFoglalasok.Location = new System.Drawing.Point(36, 182);
+            this.btnFoglalasok.Location = new System.Drawing.Point(18, 145);
             this.btnFoglalasok.Name = "btnFoglalasok";
             this.btnFoglalasok.Size = new System.Drawing.Size(124, 30);
             this.btnFoglalasok.TabIndex = 3;
@@ -83,7 +83,7 @@
             // btnSzabadSzobak
             // 
             this.btnSzabadSzobak.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.btnSzabadSzobak.Location = new System.Drawing.Point(36, 254);
+            this.btnSzabadSzobak.Location = new System.Drawing.Point(18, 217);
             this.btnSzabadSzobak.Name = "btnSzabadSzobak";
             this.btnSzabadSzobak.Size = new System.Drawing.Size(124, 30);
             this.btnSzabadSzobak.TabIndex = 4;
@@ -93,7 +93,7 @@
             // btnStatisztikak
             // 
             this.btnStatisztikak.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.btnStatisztikak.Location = new System.Drawing.Point(36, 218);
+            this.btnStatisztikak.Location = new System.Drawing.Point(18, 181);
             this.btnStatisztikak.Name = "btnStatisztikak";
             this.btnStatisztikak.Size = new System.Drawing.Size(124, 30);
             this.btnStatisztikak.TabIndex = 5;
@@ -104,7 +104,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(588, 315);
+            this.ClientSize = new System.Drawing.Size(381, 264);
             this.Controls.Add(this.btnStatisztikak);
             this.Controls.Add(this.btnSzabadSzobak);
             this.Controls.Add(this.btnFoglalasok);

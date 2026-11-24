@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9ACFF1E-660C-45A1-BCA2-87F6FB8083A3}|12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027.csproj|C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12i_elsoprojektv2_20262027\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9ACFF1E-660C-45A1-BCA2-87F6FB8083A3}|12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027.csproj|c:\\users\\kispalviktor\\documents\\github\\12i_elsoprojektv2_20262027\\12i_elsoprojektv2_20262027\\12i_elsoprojektv2_20262027\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9ACFF1E-660C-45A1-BCA2-87F6FB8083A3}|12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027.csproj|solutionrelative:12i_elsoprojektv2_20262027\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9ACFF1E-660C-45A1-BCA2-87F6FB8083A3}|12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027.csproj|c:\\users\\kispalviktor\\documents\\github\\12i_elsoprojektv2_20262027\\12i_elsoprojektv2_20262027\\12i_elsoprojektv2_20262027\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9ACFF1E-660C-45A1-BCA2-87F6FB8083A3}|12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027.csproj|solutionrelative:12i_elsoprojektv2_20262027\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9ACFF1E-660C-45A1-BCA2-87F6FB8083A3}|12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027.csproj|c:\\users\\kispalviktor\\documents\\github\\12i_elsoprojektv2_20262027\\12i_elsoprojektv2_20262027\\12i_elsoprojektv2_20262027\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C9ACFF1E-660C-45A1-BCA2-87F6FB8083A3}|12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027.csproj|C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12i_elsoprojektv2_20262027\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C9ACFF1E-660C-45A1-BCA2-87F6FB8083A3}|12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027.csproj|solutionrelative:12i_elsoprojektv2_20262027\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -26,46 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Room.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Room.cs",
+              "RelativeDocumentMoniker": "12I_ElsoProjektV2_20262027\\Room.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Room.cs [Design]",
+              "RelativeToolTip": "12I_ElsoProjektV2_20262027\\Room.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T07:21:34.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Booking.cs [Design]",
               "DocumentMoniker": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Booking.cs",
               "RelativeDocumentMoniker": "12I_ElsoProjektV2_20262027\\Booking.cs",
               "ToolTip": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Booking.cs [Design]",
               "RelativeToolTip": "12I_ElsoProjektV2_20262027\\Booking.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T07:11:35.046Z"
+              "WhenOpened": "2026-11-24T07:11:35.046Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Guest.cs [Design]",
               "DocumentMoniker": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Guest.cs",
               "RelativeDocumentMoniker": "12I_ElsoProjektV2_20262027\\Guest.cs",
               "ToolTip": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Guest.cs [Design]",
               "RelativeToolTip": "12I_ElsoProjektV2_20262027\\Guest.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T07:10:44.871Z"
+              "WhenOpened": "2026-11-24T07:10:44.871Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Form1.cs",
               "RelativeDocumentMoniker": "12I_ElsoProjektV2_20262027\\Form1.cs",
               "ToolTip": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Form1.cs",
               "RelativeToolTip": "12I_ElsoProjektV2_20262027\\Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswBAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T07:08:29.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\KispalViktor\\Documents\\GitHub\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\12I_ElsoProjektV2_20262027\\Form1.cs",
               "RelativeDocumentMoniker": "12I_ElsoProjektV2_20262027\\Form1.cs",

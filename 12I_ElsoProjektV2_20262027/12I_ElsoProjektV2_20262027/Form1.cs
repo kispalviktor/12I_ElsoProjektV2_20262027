@@ -29,17 +29,17 @@ namespace _12I_ElsoProjektV2_20262027
 
         private void btnSzobak_Click(object sender, EventArgs e)
         {
-            new Room().Show(); this.Hide();
+            new Room().Show();
         }
 
         private void btnVendegek_Click(object sender, EventArgs e)
         {
-            new Guest().Show(); this.Hide();
+            new Guest().Show();
         }
 
         private void btnFoglalasok_Click(object sender, EventArgs e)
         {
-            new Booking().Show(); this.Hide();
+            new Booking().Show();
         }
     }
 }
